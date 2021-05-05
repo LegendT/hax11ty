@@ -1,14 +1,14 @@
 {
-  "name": "elmsln",
+  "name": "Hax11ty Tone",
   "version": "1.2.9-11ty",
   "description": "HAX + 11ty = bliss",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git@github.com:elmsln/hax11ty.git"
+    "url": "git@github.com:LegendT/hax11ty.git"
   },
   "author": {
-    "name": "EdTechJoker"
+    "name": "ASG"
   },
   "license": "Apache-2.0",
   "dependencies": {
